@@ -1,4 +1,5 @@
 /* the styles for the elements */
+/* DEVELOPER Karl Giannoglou, IS117-004, Spring 2019 */
 *{
 	margin: 0;
 	padding: 0;
@@ -78,7 +79,7 @@ header h3{
 }
 .box{
 	width:550px;
-	height:40px;
+	height:50px;
   Background-color: #fff
 }
 karlimg{
